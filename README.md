@@ -21,7 +21,7 @@ The Airgap Frontend is a modern web interface built with **React + TailwindCSS**
 > Suggestions and help to integrate it are encouraged.
 
 ## Requirements
-- Node.js ≥ 18
+- Node.js ≥ 20
 - Backend running on `http://localhost:4000`
 
 ## Getting Started
